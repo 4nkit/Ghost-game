@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+
+    <ListPreference
+        android:title="Score"
+        android:key="score"
+        android:summary="Select mode"
+        android:entryValues="@array/score"
+        android:entries="@array/score"
+        android:defaultValue="false"
+
+        />
+
+</PreferenceScreen>

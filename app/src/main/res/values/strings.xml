@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ghost</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="setting">Settings</string>
+    <string-array name="score">
+        <item>Without score</item>
+        <item>With score</item>
+    </string-array>
+</resources>
